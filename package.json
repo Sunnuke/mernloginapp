@@ -1,0 +1,26 @@
+{
+  "name": "mernloginapp",
+  "version": "1.0.0",
+  "description": "This repository is a MERN Stack, with JWT, practice for creating a full stack authentication app concept. The goals of this practice is to create a website with responsive authentication that allows users to register/login/logout. Also to have responsive route for efficient API calls that will display the contents of the user's account to the user and only the specified user as the access to their account will be secured by standard account verification, Bcrypt, and JWT (JSON Web Token).",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sunnuke/mernloginapp.git"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "jwt",
+    "authentication",
+    "mongodb"
+  ],
+  "author": "sunnuke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sunnuke/mernloginapp/issues"
+  },
+  "homepage": "https://github.com/Sunnuke/mernloginapp#readme"
+}
