@@ -1,0 +1,2 @@
+# mernloginapp
+This repository is a MERN Stack, with JWT, practice for creating a full stack authentication app concept. The goals of this practice is to create a website with responsive authentication that allows users to register/login/logout. Also to have responsive route for efficient API calls that will display the contents of the user's account to the user and only the specified user as the access to their account will be secured by standard account verification, Bcrypt, and JWT (JSON Web Token).
